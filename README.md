@@ -4,9 +4,9 @@
 
 **Todo list:**
 - [x] Establish video feed from webcam
-- [ ] Detect people in video feed
-- - [ ] Use haar cascade to detect human presence
-- - [ ] Draw yellow boxes around people
+- [x] Detect people in video feed
+- - [x] Use haar cascade to detect human presence
+- - [x] Draw yellow boxes around people
 - [ ] Detect abnormal motion
 - - [ ] Track change in center of drawn boxes
 - - [ ] Create normal behavior model
