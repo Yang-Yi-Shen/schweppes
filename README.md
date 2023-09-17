@@ -1,6 +1,8 @@
-# Schweppes
+# Schweppes 🍾
 
-**Project description:** An image processing software that takes a video stream, and analyses it to determine information about people who may be in view. It also detects abnormal motion by people, and can be used to detect falls, running, etc. 
+An image processing software that takes a video stream, and analyses it to determine information about people who may be in view. It also detects abnormal motion by people, and can be used to detect falls, running, etc. 
+
+> 🚧 Work in progress! 🚧
 
 **Todo list:**
 - [x] Establish video feed from webcam
