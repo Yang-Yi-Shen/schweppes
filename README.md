@@ -8,6 +8,6 @@
 - - [x] Use haar cascade to detect human presence
 - - [x] Draw yellow boxes around people
 - [ ] Detect abnormal motion
-- - [ ] Track change in center of drawn boxes
+- - [x] Track change in center of drawn boxes
 - - [ ] Create normal behavior model
 - - [ ] Raise warning if behavior not conforming to model 
